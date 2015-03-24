@@ -104,7 +104,7 @@
   <ItemGroup>
     <None Include="Properties\PublishProfiles\Deploy.pubxml" />
     <Content Include="README.md" />
-    <None Include="Web.Private.config" />
+    <Content Include="Web.Private.config" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
